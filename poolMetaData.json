@@ -2,6 +2,6 @@
 "name": "BBHMM",
 "description": "Stake with BBHMM",
 "ticker": "BBHMM",
-"homepage": "https://bbhmm.bookmark.com/"
+"homepage": "https://bbhmm.bookmark.com/",
 "extended": "https://chadle-git.github.io/Shelley/poolmeta_extended.json"
 }
