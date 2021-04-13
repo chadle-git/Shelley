@@ -5,5 +5,27 @@
   },
   "adapools": {
     "string": "9e3b2c2afde92b58a98a14aeba677f80"
+  },
+  "info": {
+    "url_png_icon_64x64": "http://www.bbhmm.net/wp-content/uploads/2021/04/bbhmm_logo_64_64.png",
+    "url_png_logo": "http://www.bbhmm.net/wp-content/uploads/2021/04/BBHMM_logo.png",
+    "location": "USA",
+    "social": {
+      "twitter_handle": "AdapoolsO",
+      "telegram_handle": "BBHMM_Stake",
+      "facebook_handle": "BBHMMStakePool",
+      "youtube_handle": "UCq8FRB9Q6JOYR1C7ne8Li1Q",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    },
+    "company": {
+      "name": "BBHMM"
+    },
+    "about": {
+      "me": "BBHMM Stake Pool",
+      "server": "Multi cloud infrastrucutre, hardend OS, optimal uptime",
+      "company": "BBHMM"
+    }
   }
 }
